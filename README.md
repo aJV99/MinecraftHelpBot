@@ -2,7 +2,7 @@
 
 ## Description
 
-A program that help bot which can
+A program that is a help bot which can
     provide information about minecraft
     which can teach the user about it
     when they request for specific data,
